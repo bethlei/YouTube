@@ -1,0 +1,11 @@
+.video-list-item-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+.video-list-item {
+  flex: 0 1 auto;
+  width: 260px;
+  margin: $spacing-unit;
+  padding: $spacing-unit;
+  box-shadow: 0 4px 5px 0 rgba(0,0,0,.14), 0 1px 10px 0 rgba(0,0,0,.12), 0 2px 4px -1px rgba(0,0,0,.2);
+}

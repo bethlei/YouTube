@@ -1,0 +1,9 @@
+.category {
+  padding-bottom: $spacing-unit;
+  display: flex;
+  flex-wrap: wrap;
+}
+.category-filter {
+  margin-left: $spacing-unit;
+  vertical-align: top;
+}
